@@ -1,0 +1,6 @@
+[submodule "propitch-frontend"]
+	path = propitch-frontend
+	url = https://github.com/danielurz/propitch-frontend
+[submodule "propitch-backend"]
+	path = propitch-backend
+	url = https://github.com/danielurz/propitch-backend
